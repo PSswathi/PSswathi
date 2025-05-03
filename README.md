@@ -16,7 +16,7 @@ Having worn multiple hats in my tech career, I bring a unique mix of technical d
 
 • Visualization & BI: Tableau, Plotly, Seaborn, Matplotlib, Scipy
 
-• MLOps & Tools: Git/GitHub, Jupyter, Anaconda, Airflow, Github actions, Kubernetes, Mlflow
+• MLOps & Tools: Git/GitHub, Google Colab, Jupyter, Anaconda, Airflow, Github actions, Kubernetes, Mlflow
 
 • Soft Skills: Strong communicator, business-focused analyst, highly organized and outcome-driven
 
