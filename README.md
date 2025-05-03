@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<AI & ML Practitioner | 15+ Years in Software Engineering | Applied AI Graduate in USD| Specializing in Generative AI & Predictive Modeling
+AI & ML Practitioner | 15+ Years in Software Engineering | Applied AI Graduate in USD| Specializing in Generative AI & Predictive Modeling
 
 I’m a seasoned Software Engineer with over 15 years of industry experience, now transitioning into the field of Machine Learning and Artificial Intelligence. Backed by a Master’s degree in Applied AI, I specialize in building scalable ML solutions, working with LLMs, and applying deep learning, NLP, and data mining to real-world business problems.
 
