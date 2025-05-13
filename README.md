@@ -23,4 +23,7 @@ Having worn multiple hats in my tech career, I bring a unique mix of technical d
 As I advance in this field, I’m especially fascinated by Generative AI, LLM applications, and building intelligent systems that automate decision-making and enhance productivity.!--
 
 ##Certifications:
+
 -[Advanced python developer certificate](https://verify.w3schools.com/1PXJ8RL8D6)
+
+-[Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Gen AI](https://drive.google.com/file/d/1nv5twY7sduUf0kpjJTXLCjLRUaO2oMeL/view?usp=sharing)
