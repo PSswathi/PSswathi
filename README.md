@@ -2,7 +2,7 @@
 
 AI & ML Practitioner | 14+ Years in Software Development and Engineering | Applied AI Graduate in USD| Specializing in Machine Learning and Generative AI & Predictive Modeling
 
-I’m a Senior Data Scientist with over 14 years of industry experience in software development and Engineering, transitioned into the field of Machine Learning and Artificial Intelligence. Backed by a Master’s degree in Applied AI with 4 GPA, I specialize in building scalable ML solutions, working with LLMs, and applying deep learning, NLP, and data mining to real-world business problems.
+I’m a Senior Data Scientist with over 14 years of industry experience in software development and Engineering, transitioned into the field of Machine Learning and Artificial Intelligence. Backed by a Master’s degree in Applied AI with 4 GPA so far, I specialize in building scalable ML solutions, working with LLMs, and applying deep learning, NLP, and data mining to real-world business problems.
 
 Having worn multiple hats in my tech career, I bring a unique mix of technical depth, cross-domain problem-solving, and strategic thinking. I’m passionate about leveraging cutting-edge AI to drive business outcomes, and I’m equally comfortable working on the backend, deploying ML pipelines, or delivering insights through interactive dashboards.
 
