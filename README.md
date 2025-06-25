@@ -26,4 +26,6 @@ As I advance in this field, I’m especially fascinated by Generative AI, LLM ap
 
 -[Advanced python developer certificate](https://verify.w3schools.com/1PXJ8RL8D6)
 
--[Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Gen AI]
+-[Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Gen AI](https://drive.google.com/file/d/164w-qca4nXiTzvpLVBbSv_VamQCwC8pP/view?usp=sharing)
+
+-[Masters in Applied Artificial Intelligence- transcript till date](https://drive.google.com/file/d/179puux3gl04LM68ttR1Mb6MHbqblxkJ0/view?usp=drive_link)
