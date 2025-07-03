@@ -21,3 +21,14 @@ Having worn multiple hats in my tech career, I bring a unique mix of technical d
 • Soft Skills: Strong communicator, business-focused analyst, highly organized and outcome-driven
 
 As I advance in this field, I’m especially fascinated by Generative AI, LLM applications, and building intelligent systems that automate decision-making and enhance productivity.!--
+
+
+Certificates:
+
+Advanced Python programming
+
+Machine Learning, Deep Neural Networks, NLP, DataScience and Gen AI
+
+Bachelor of Technology in Computer Science Engineering
+
+Masters in Applied Artificial Intelligence
