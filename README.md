@@ -33,4 +33,4 @@ Bachelor of Technology in Computer Science Engineering
 
 Masters in Applied Artificial Intelligence
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile views](https://komarev.com/ghpvc/?username=)
