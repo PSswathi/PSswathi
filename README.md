@@ -32,3 +32,5 @@ Machine Learning, Deep Neural Networks, NLP, DataScience and Gen AI
 Bachelor of Technology in Computer Science Engineering
 
 Masters in Applied Artificial Intelligence
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername)
