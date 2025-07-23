@@ -8,15 +8,22 @@ Having worn multiple hats in my tech career, I bring a unique mix of technical d
 
 🔹 Core Skills & Tools:
 
-• ML/NLP/GenAI: Supervised & Unsupervised ML, Deep Neural Networks, LLMs, BERT, T5, TF-IDF, SpaCy, NLTK, sentence-transformers, Gen AI
+CORE COMPETENCIES
+•	Machine Learning & Deep Learning (Supervised/Unsupervised, LSTM, Transformers)
+•	Computer Vision, Object Detection, Generative AI (RAG, Diffusion, GANs)
+•	Natural Language Processing (NLP, Prompt Engineering, LangChain, Topic Modelling)
+•	Time Series Forecasting & Predictive Modeling
+•	End-to-End ML System Design & Delivery
+•	MLOps, Model Deployment, CI/CD Pipelines
+•	Data Science & Analytics | IoT Integration | Scalable ML Pipelines
+•	Agile Project Planning & Execution | Solution Architecture
 
-• Programming: Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras), SQL
-
-• Deployment: Streamlit, AWS EC2, SageMaker, REST APIs
-
-• Visualization & BI: Tableau, Plotly, Seaborn, Matplotlib, Scipy
-
-• MLOps & Tools: Git/GitHub, Google Colab, Jupyter, Anaconda, Airflow, Github actions, Kubernetes, Mlflow
+TECHNICAL SKILLS
+•	Languages & Libraries: Python, C, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Spacy, NLTK, OpenCV
+•	Deep Learning & ML Frameworks: PyTorch, TensorFlow, Keras, HuggingFace, XGBoost, LightGBM, MLflow
+•	MLOps & DevOps Tools: Docker, Airflow, GitHub Actions, CI/CD, MLflow, FastAPI, Flask
+•	Cloud & Infrastructure: AWS (EC2, S3, Lambda, ECS), Microservices, Serverless Architectures
+•	Big Data & Pipelines: Spark, PySpark, Data Lakes, Pipeline Orchestration
 
 • Soft Skills: Strong communicator, business-focused analyst, highly organized and outcome-driven
 
