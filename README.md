@@ -9,23 +9,23 @@ Having worn multiple hats in my tech career, I bring a unique mix of technical d
 🔹 Core Skills & Tools:
 
 CORE COMPETENCIES
-•	Machine Learning & Deep Learning (Supervised/Unsupervised, LSTM, Transformers)
-•	Computer Vision, Object Detection, Generative AI (RAG, Diffusion, GANs)
-•	Natural Language Processing (NLP, Prompt Engineering, LangChain, Topic Modelling)
-•	Time Series Forecasting & Predictive Modeling
-•	End-to-End ML System Design & Delivery
-•	MLOps, Model Deployment, CI/CD Pipelines
-•	Data Science & Analytics | IoT Integration | Scalable ML Pipelines
-•	Agile Project Planning & Execution | Solution Architecture
+*	Machine Learning & Deep Learning (Supervised/Unsupervised, LSTM, Transformers)
+*	Computer Vision, Object Detection, Generative AI (RAG, Diffusion, GANs)
+*	Natural Language Processing (NLP, Prompt Engineering, LangChain, Topic Modelling)
+*	Time Series Forecasting & Predictive Modeling
+*	End-to-End ML System Design & Delivery
+*	MLOps, Model Deployment, CI/CD Pipelines
+*	Data Science & Analytics | IoT Integration | Scalable ML Pipelines
+*	Agile Project Planning & Execution | Solution Architecture
 
 TECHNICAL SKILLS
-•	Languages & Libraries: Python, C, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Spacy, NLTK, OpenCV
-•	Deep Learning & ML Frameworks: PyTorch, TensorFlow, Keras, HuggingFace, XGBoost, LightGBM, MLflow
-•	MLOps & DevOps Tools: Docker, Airflow, GitHub Actions, CI/CD, MLflow, FastAPI, Flask
-•	Cloud & Infrastructure: AWS (EC2, S3, Lambda, ECS), Microservices, Serverless Architectures
-•	Big Data & Pipelines: Spark, PySpark, Data Lakes, Pipeline Orchestration
+*	Languages & Libraries: Python, C, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Spacy, NLTK, OpenCV
+*	Deep Learning & ML Frameworks: PyTorch, TensorFlow, Keras, HuggingFace, XGBoost, LightGBM, MLflow
+*	MLOps & DevOps Tools: Docker, Airflow, GitHub Actions, CI/CD, MLflow, FastAPI, Flask
+*	Cloud & Infrastructure: AWS (EC2, S3, Lambda, ECS), Microservices, Serverless Architectures
+*	Big Data & Pipelines: Spark, PySpark, Data Lakes, Pipeline Orchestration
 
-• Soft Skills: Strong communicator, business-focused analyst, highly organized and outcome-driven
+* Soft Skills: Strong communicator, business-focused analyst, highly organized and outcome-driven
 
 As I advance in this field, I’m especially fascinated by Generative AI, LLM applications, and building intelligent systems that automate decision-making and enhance productivity.!--
 
