@@ -32,12 +32,14 @@ As I advance in this field, I’m especially fascinated by Generative AI, LLM ap
 
 ### Certificates:
 
-Advanced Python programming
+Advanced Python programming in 2025
 
-Machine Learning, Deep Neural Networks, NLP, DataScience and Gen AI
+Fundementals of DB2 certified in 2018
 
-Bachelor of Technology in Computer Science Engineering
+Machine Learning, Deep Neural Networks, NLP, DataScience and Gen AI in 2025
 
-Masters in Applied Artificial Intelligence
+Bachelor of Technology in Computer Science Engineering in 2008
+
+Masters in Applied Artificial Intelligence in 2026
 
 ![Profile views](https://komarev.com/ghpvc/?username=PSswathi)
