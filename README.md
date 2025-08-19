@@ -36,6 +36,8 @@ Advanced Python programming in 2025
 
 Fundementals of DB2 certified in 2018
 
+IBM certified application developer DB2, SQL in 2019
+
 Machine Learning, Deep Neural Networks, NLP, DataScience and Gen AI in 2025
 
 Bachelor of Technology in Computer Science Engineering in 2008
