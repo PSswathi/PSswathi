@@ -10,7 +10,7 @@ Having worn multiple hats in my tech career, I bring a unique mix of technical d
 
 CORE COMPETENCIES
 *	Machine Learning & Deep Learning (Supervised/Unsupervised, LSTM, Transformers)
-*	Computer Vision, Object Detection, Generative AI (RAG, Diffusion, GANs)
+*	Computer Vision, Object Detection, Generative AI (RAG, Diffusion, GANs), Agentic AI
 *	Natural Language Processing (NLP, Prompt Engineering, LangChain, Topic Modelling)
 *	Time Series Forecasting & Predictive Modeling
 *	End-to-End ML System Design & Delivery
