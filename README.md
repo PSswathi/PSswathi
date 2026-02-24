@@ -32,6 +32,10 @@ As I advance in this field, I’m especially fascinated by Generative AI, LLM ap
 
 ### Certificates:
 
+AWS Machine Learning - Associate
+
+AWS Machine Learning - Speciality
+
 Advanced Python programming in 2025
 
 Fundementals of DB2 certified in 2018
