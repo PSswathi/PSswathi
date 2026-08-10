@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-AI & ML Engineer | 14+ Years in Software Development and Engineering | Applied AI Graduate in USD| Specializing in Machine Learning and Generative AI & Predictive Modeling
+AI & ML Engineer | 14+ Years in Software Development and Engineering | Applied AI Graduate in USD| Specialized in Machine Learning and Generative AI & Predictive Modeling
 
 Currently ML Engineer with over 14 years of industry experience in software development and Engineering, transitioned into the field of Machine Learning and Artificial Intelligence. Backed by a Master’s degree in Applied AI with 4 GPA , I specialize in building scalable ML solutions, working with LLMs, and applying deep learning, NLP, and data mining to real-world business problems.
 
