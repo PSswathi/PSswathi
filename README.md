@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-AI & ML Engineer | 14+ Years in Software Development and Engineering | Applied AI Graduate in USD| Specialized in Machine Learning and Generative AI & Predictive Modeling
+Enterprise AI/ML Engineer | Agentic AI • Generative AI • Predictive Modeling | Building AI Systems from Concept to Production | BofA Spotlight Award | Ex-Charles Schwab, Verizon, IBM| MS Applied AI (4.0 GPA)
 
 Currently ML Engineer with over 14 years of industry experience in software development and Engineering, transitioned into the field of Machine Learning and Artificial Intelligence. Backed by a Master’s degree in Applied AI with 4 GPA , I specialize in building scalable ML solutions, working with LLMs, and applying deep learning, NLP, and data mining to real-world business problems.
 
